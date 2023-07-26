@@ -21,22 +21,22 @@
   /*
     Theme Background
   */
-  --theme-background-image: url(https://i.imgur.com/j1Z6HVc.jpg);
+  --theme-background-image: url(https://preview.redd.it/a54dveg70qv41.png?auto=webp&s=42515198128b48553d0f5bc3e4376d2140924c3b);
 
   /*
     Main Theme Color
   */
-  --main-theme-color: rgb(67, 181, 129);
+  --main-theme-color: rgb(162, 28, 169);
 
   /*
     Main Theme Transparency
   */
-  --theme-transparency: rgba(0, 0, 0, 0.8);
+  --theme-transparency: rgba(0, 0, 0, 0.3);
 
   /*
     Home Icon Image
   */
-  --home-icon-image: url(https://i.imgur.com/63g6Em8.jpg);
+  --home-icon-image: url(https://i.pinimg.com/564x/63/ef/2a/63ef2a2c28d03849921ecc96038d6e75.jpg);
 
   /*
     Change your friends icon image position
@@ -50,7 +50,7 @@
 
   /*
     Server Listing Width
-    Single Column:  62px
+    Single Column:  72px
     Double Column:  126px
     Triple Column:  184px
     Quad Column:    242px
